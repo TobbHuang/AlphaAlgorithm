@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlphaAlgorithm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlphaAlgorithm_jar</output-path>
+    <root id="archive" name="AlphaAlgorithm.jar">
+      <element id="module-output" name="AlphaAlgorithm" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/commons-collections-3.2.2/commons-collections-3.2.2.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/commons-lang-2.6/commons-lang-2.6.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/commons-logging-1.2/commons-logging-1.2.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/ezmorph-1.0.6.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/json-lib-2.4-jdk15.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../本科毕设/jgraph 有向图解决方案/e42d1403-6966-4d93-8044-3136e9b430de/draw2d.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../本科毕设/guava-20.0.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/jgraph/lib/jgraph.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../本科毕设/OpenXES-20160212.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../本科毕设/jgraph 有向图解决方案/e42d1403-6966-4d93-8044-3136e9b430de/schemaeditor.jar" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
