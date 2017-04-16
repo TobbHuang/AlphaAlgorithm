@@ -100,10 +100,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/json-lib-2.4-jdk15.jar!/" />
+          <root url="file://$MODULE_DIR$/../../本科毕设/json lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../本科毕设/json lib" recursive="false" />
       </library>
     </orderEntry>
   </component>

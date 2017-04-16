@@ -8,7 +8,6 @@
       <element id="file-copy" path="$USER_HOME$/Downloads/commons-lang-2.6/commons-lang-2.6.jar" />
       <element id="file-copy" path="$USER_HOME$/Downloads/commons-logging-1.2/commons-logging-1.2.jar" />
       <element id="file-copy" path="$USER_HOME$/Downloads/ezmorph-1.0.6.jar" />
-      <element id="file-copy" path="$USER_HOME$/Downloads/json-lib-2.4-jdk15.jar" />
       <element id="file-copy" path="$PROJECT_DIR$/../../本科毕设/jgraph 有向图解决方案/e42d1403-6966-4d93-8044-3136e9b430de/draw2d.jar" />
       <element id="file-copy" path="$PROJECT_DIR$/../../本科毕设/guava-20.0.jar" />
       <element id="file-copy" path="$USER_HOME$/Downloads/jgraph/lib/jgraph.jar" />
